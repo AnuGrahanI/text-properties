@@ -1,0 +1,145 @@
+*{
+	padding:;
+	margin:;
+	box-sizing:borde-box;
+}
+
+h1,h2{
+	text-align:center;
+}
+  th, td{
+	border:2px solid #666666;
+	border-collapse:collapse;
+	padding:12px 35px;
+}
+table{
+	border:7px solid #4d4d4d;
+	border-collapse:collapse;
+}
+.cont1{
+	background-color:#a6a6a6;
+	text-align:center;
+	padding:25px 50px;
+	justify-content:justify;
+	margin:auto;
+}
+.cont2{
+	background-color:#4d4d4d;
+}
+.contt{
+	background-color:#e6e6e6;
+	margin-left:auto;
+	margin-right:auto;
+	padding:25px;
+	}
+/*rgba values*/
+.who{
+	background-color:rgb(255, 255, 255);
+}
+.blo{
+	background-color:rgb(0, 0, 0);
+}
+   /*hex values*/
+.wht{
+	background-color:#ffffff;
+}
+.blt{
+	background-color:#000000;
+}
+		/*hsl values*/
+.whth{
+	background-color:hsl(100,100%,100%);
+}
+.blth{
+	background-color:hsl(0,0%,0%);
+}
+.t{
+		padding:35px;
+	}
+	.color{
+		color:darkviolet;
+	}
+	.bgcolor{
+		background-color:pink;
+	}
+	.align{
+		justify-content:justify;	
+	}
+	.ta{
+		padding:25px;
+	}
+	.aone{
+		text-align:center;
+		background-color:yellow;
+	}
+	.atwo{
+		text-align:left;
+		background-color:violet;
+	}
+	.athr{
+		text-align:right;
+		background-color:lightgreen;
+	}
+	.afou{
+		justify-content:justify;
+		text-align:justify;
+		background-color:yellow;
+	}
+	.dir{
+		direction:rtl;
+		background-color:lightblue;
+	}
+	.dlover{
+		text-decoration-line:overline;
+	}
+	.dlunder{
+		text-decoration-line:underline;
+	}
+	.dlthrough{
+		text-decoration-line:line-through;
+	}
+	.dcolor{
+		text-decoration-color:red;
+	}
+	.ddoub{
+		text-decoration-style:double;
+	}
+	.ddott{
+		text-decoration-style:dotted;
+	}
+	.ddash{
+		text-decoration-style:dashed;
+	}
+	.dwavy{
+		text-decoration-style:wavy;
+	}
+	/*auto;%; px*/
+	.dthik{
+		text-decoration-thickness:30%;
+		text-decoration-color:green;
+	}
+	.dall{
+		text-decoration:line-through orange wavy 2px;
+	}
+	a {
+		text-decoration:none;
+		color:red;
+	}
+	.tupper{
+		text-transform:uppercase;
+		}
+	.tlower{
+		text-transform:lowercase;
+	}
+	.tcapital{
+		text-transform:capitalize;
+	}
+	.tinde{
+		text-indent:50px;
+	}
+	.lspace{
+		letter-spacing:5px;
+	}
+	.wspace{
+		word-spacing:10px;
+	}
